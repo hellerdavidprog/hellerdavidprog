@@ -1,9 +1,9 @@
 ## Hi there 👋
-# Hi there! I'm David 👋
+# Hi there! I'm Heller Campo 👋
 
 **Systems Engineer | Full-Stack Developer | IT Infrastructure Specialist**
 
-I am a passionate Systems Engineer with over 3 years of experience building robust IT infrastructures and scalable software solutions. Currently, I am focused on delivering high-level technology services through **Only IT Consulting**.
+I am a passionate Systems Engineer with over 3 years of experience building robust IT infrastructures and scalable software solutions. Currently, I am focused on delivering high-level technology services.
 
 ---
 
@@ -22,21 +22,8 @@ I am a passionate Systems Engineer with over 3 years of experience building robu
 | **Networking** | Ubiquiti UniFi (UDM, VLANs), Site-to-Site VPNs, Network Security |
 | **DevOps/Tools** | Git, GitHub, Docker, IIS, Linux Servers |
 
----
 
 
----
-
-### 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=hellerdavidprog
-&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellerdavidprog
-&layout=compact&theme=radical)
-
----
-
-### ⚡ Fun Fact
-When I'm not configuring networks or writing code, I’m probably under the hood of a car. I enjoy performing complex mechanical and electrical repairs—diagnosing engines is just another form of debugging for me.
 
 ### 📫 Let's Connect!
 - **LinkedIn:**(https://www.linkedin.com/in/heller-campo-021326260/)
