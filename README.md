@@ -3,7 +3,7 @@
 
 **Systems Engineer | Full-Stack Developer | IT Infrastructure Specialist**
 
-I am a passionate Systems Engineer with over 3 years of experience building robust IT infrastructures and scalable software solutions. Currently, I am focused on delivering high-level technology services.
+I am a passionate Systems Engineer with over 4 years of experience building robust IT infrastructures and scalable software solutions. Currently, I am focused on delivering high-level technology services.
 
 ---
 
