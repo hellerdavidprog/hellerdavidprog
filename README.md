@@ -28,7 +28,7 @@ I am a passionate Systems Engineer with over 3 years of experience building robu
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellerdavidprog
+(https://github-readme-stats.vercel.app/api?username=hellerdavidprog
 &show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellerdavidprog
 &layout=compact&theme=radical)
@@ -39,5 +39,5 @@ I am a passionate Systems Engineer with over 3 years of experience building robu
 When I'm not configuring networks or writing code, I’m probably under the hood of a car. I enjoy performing complex mechanical and electrical repairs—diagnosing engines is just another form of debugging for me.
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Pega aquí el link a tu perfil de LinkedIn]
+- **LinkedIn:** linkedin.com/in/heller-campo-021326260
 - **Location:** Caracas, Venezuela 🇻🇪
