@@ -39,5 +39,5 @@ I am a passionate Systems Engineer with over 3 years of experience building robu
 When I'm not configuring networks or writing code, I’m probably under the hood of a car. I enjoy performing complex mechanical and electrical repairs—diagnosing engines is just another form of debugging for me.
 
 ### 📫 Let's Connect!
-- **LinkedIn:** linkedin.com/in/heller-campo-021326260
+- **LinkedIn:** [](https://www.linkedin.com/in/heller-campo-021326260/)
 - **Location:** Caracas, Venezuela 🇻🇪
